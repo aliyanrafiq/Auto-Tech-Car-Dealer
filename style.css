@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto-Regular.ttf);
+}
+.body, a{
+    color: #fff !important;
+    font-family: Roboto;
+}
+i{
+    padding-right: 5px;
+}
+
+.navbar{
+    background-color: #7431f9!important;
+    height: 70px;
+    padding: 5px;
+}
+
+.card{
+    margin: 30px;
+}
